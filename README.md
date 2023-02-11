@@ -1,1 +1,3 @@
-# customer-stocks-holdings-portal
+# Case study
+
+# Instructions to run the app
